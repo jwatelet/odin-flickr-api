@@ -1,24 +1,14 @@
-# README
+# Odin FLICKR API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The point of this project is make little interraction with the flickr API.
 
-Things you may want to cover:
+## Config
+You need to configure these env variable with you credentials :
 
-* Ruby version
+```
+FLICKR_API_KEY: ...
+FLICKR_SHARED_SECRET: ...
+```
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Made for [the odin project](https://www.theodinproject.com/lessons/ruby-on-rails-flickr-api)
